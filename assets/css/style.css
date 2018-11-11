@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton|Roboto');
+html {
+  font-size: 18px;
+} font-size: 25px;
+
+html {font-size: 18px;}
+p{
+  font-size: 10pt
+}
+
+nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  list-style: none;
+  text-align: center;
+  padding: 10px 50px ;
+  font-family:"Verdana", sans-serif;
+}
+
+body {
+  display: grid;
+  font-family:"Verdana", Palatino, sans-serif;
+
+}
+  </body>
+</html>
